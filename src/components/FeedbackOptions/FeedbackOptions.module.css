@@ -1,0 +1,19 @@
+.btn {
+  margin-bottom: 5px;
+  padding: 5px 10px;
+  border: 1px solid rgb(199, 148, 233);
+  border-radius: 3px;
+  margin-right: 5px;
+}
+
+.good {
+  background-color: rgb(115, 235, 115);
+}
+
+.neutral {
+  background-color: rgb(234, 241, 130);
+}
+
+.bad {
+  background-color: rgb(231, 53, 29);
+}
