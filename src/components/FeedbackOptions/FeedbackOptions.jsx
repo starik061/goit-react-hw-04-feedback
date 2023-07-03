@@ -24,26 +24,6 @@ class FeedbackOptions extends Component {
           );
         })}
       </div>
-      // <div>
-      //   <button
-      //     className={`${css.btn} ${css.good}`}
-      //     onClick={event => onLeaveFeedback(event)}
-      //   >
-      //     Good
-      //   </button>
-      //   <button
-      //     className={`${css.btn} ${css.neutral}`}
-      //     onClick={event => onLeaveFeedback(event)}
-      //   >
-      //     Neutral
-      //   </button>
-      //   <button
-      //     className={`${css.btn} ${css.bad}`}
-      //     onClick={event => onLeaveFeedback(event)}
-      //   >
-      //     Bad
-      //   </button>
-      // </div>
     );
   }
 }
